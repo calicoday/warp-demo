@@ -90,17 +90,10 @@ Last step is to get the values into the newly alloc'd contiguous structs.
 # Sources 
 
 * (Image asset) Maple leaf from an image (maple-leaves-482678_1280.png) by user stux at pixabay.com (cc0 licence)
-
 * RubyMotion docs [RubyMotion Runtime Guide for iOS and OS X](http://www.rubymotion.com/developers/guides/manuals/cocoa/runtime/). Section 3.5 Pointers.
-
 * Hwee-Boon Yar post [RubyMotion Tutorial for Objective C Developers](http://hboon.com/rubymotion-tutorial-for-objective-c-developers/#gcd). RubyMotion Pointers, toward the end of the 'More Code Differences' section.
-
 * Google Books preview [MacRuby: The Definitive Guide: Ruby and Cocoa on OS X](https://books.google.ca/books?id=WPhdPzyU1R4C&pg=PA158&lpg=PA158&dq=one_step_deeper+pointers&source=bl&ots=j9X8OZqEgZ&sig=B_DDBvoR_oqZ_TdBd8stbL2c6NA&hl=en&sa=X&ved=2ahUKEwj0rp78vLrdAhVq_4MKHW4dCG0Q6AEwA3oECAcQAQ#v=onepage&q=one_step_deeper%20pointers&f=false). Section 'Pointers' at the end of Chapter 8, pg 157-169.
-
 * Apple docs (Obj-C) [class SKWarpGeometryGrid](https://developer.apple.com/documentation/spritekit/skwarpgeometrygrid?language=objc)
-
 * Stackoverflow post [Spritekit | Swift3 | Applying SKWarpGeometry to nodes](https://stackoverflow.com/questions/40250935/spritekit-swift3-applying-skwarpgeometry-to-nodes). Answer by user user3482617 (Oct 26 '16 at 12:57) has code sample for a single warp of an SKSpriteNode
-
 * Stackoverflow post [Does SpriteKit support dense tessellation of a sprite / texture / shape so it can be warped freely?](https://stackoverflow.com/questions/19779312/does-spritekit-support-dense-tessellation-of-a-sprite-texture-shape-so-it-ca/37884312#37884312). Answer by user Benzi (Jun 17 '16 at 14:37. Edited Nov 7 '16 at 19:10) includes sample Swift code you can paste into a XCode playground. Shows a star and drag points that warp the star live.
-
 * Medium post [Functional swift: All about Closures](https://medium.com/@abhimuralidharan/functional-swift-all-about-closures-310bc8af31dd). To make sense of Swift closure syntax in the above sample code.
