@@ -16,7 +16,9 @@ and these:
 * `DevWarpScene` does the same as `DemoWarpScene` but is organized with less commentary and methods for easier mucking about during development.
 * `LiveWarpScene` presents the reference leaf image with border plus 9 control nodes you can drag-and-drop, warping the leaf live. If you touch/click within the leaf border, the leaf resets. Touch/click outside and the current control node positions are printed to the console in an array suitable for copy-and-pasting into code (formed as warp grid vertices are dealt with here). Looks like this:
 
-[LiveWarpScene image](warp-demo.png)
+<p style="border: solid 1px silver;">
+  <img src="warp-demo.png" width="200px" />
+</p>
 
 # Notes on That Time Cal Made a RubyMotion Pointer
 
