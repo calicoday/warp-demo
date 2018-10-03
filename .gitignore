@@ -1,3 +1,4 @@
+*.bbprojectd
 .repl_history
 build
 tags
